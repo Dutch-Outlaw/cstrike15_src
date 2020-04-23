@@ -1,8 +1,6 @@
 # cstrike15_src
-old project of mine !! from 2017 !!
-
-shoutout pasterlounge!
+you know
 
 ## credits
-valve :-)
+whistleblower
 
